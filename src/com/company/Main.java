@@ -30,5 +30,6 @@ public class Main {
                 System.out.println("Doesnt end with 1a2b");;
             }
         }
+
     }
 }
